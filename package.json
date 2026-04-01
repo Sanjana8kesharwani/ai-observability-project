@@ -16,6 +16,7 @@
     "@opentelemetry/auto-instrumentations-node": "^0.72.0",
     "@opentelemetry/exporter-trace-otlp-http": "^0.214.0",
     "@opentelemetry/sdk-node": "^0.214.0",
+    "cors": "^2.8.6",
     "express": "^5.2.1",
     "morgan": "^1.10.1",
     "winston": "^3.19.0",
