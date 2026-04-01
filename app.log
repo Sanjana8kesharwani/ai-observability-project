@@ -78,3 +78,16 @@
 {"level":"info","message":"::1 - - [31/Mar/2026:10:24:10 +0000] \"POST /orders HTTP/1.1\" 201 65 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"fc13eaf17c37e5bd","trace_flags":"01","trace_id":"a5498e4af6ae505fc41cdd2f0a677471"}
 {"level":"info","message":"Order created for item: Laptop","span_id":"54584098106d554a","trace_flags":"01","trace_id":"17b753bde74ffcb64db6797a9758f47b"}
 {"level":"info","message":"::1 - - [31/Mar/2026:10:24:11 +0000] \"POST /orders HTTP/1.1\" 201 65 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"629d8429ab83dc2c","trace_flags":"01","trace_id":"17b753bde74ffcb64db6797a9758f47b"}
+{"level":"info","message":"Order created for item: Laptop","span_id":"fd6fdcd9f2bd5f0e","trace_flags":"01","trace_id":"94bbb3b15f378b442a9927c234f6ec82"}
+{"level":"info","message":"::1 - - [01/Apr/2026:14:26:26 +0000] \"POST /orders HTTP/1.1\" 201 65 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"25b5914b69e6f47d","trace_flags":"01","trace_id":"94bbb3b15f378b442a9927c234f6ec82"}
+{"level":"info","message":"Order created for item: Laptop","span_id":"810df0542cc009a9","trace_flags":"01","trace_id":"0ccf1e199903825b7e5cddd72ffcd991"}
+{"level":"info","message":"::1 - - [01/Apr/2026:14:26:27 +0000] \"POST /orders HTTP/1.1\" 201 65 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"b81b0384b838ac4a","trace_flags":"01","trace_id":"0ccf1e199903825b7e5cddd72ffcd991"}
+{"level":"info","message":"Order created for item: Laptop","span_id":"1c8982b5b11df7f1","trace_flags":"01","trace_id":"67379d2273f3d1f144deeca0216bda2c"}
+{"level":"info","message":"::1 - - [01/Apr/2026:14:26:28 +0000] \"POST /orders HTTP/1.1\" 201 65 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"1a57d435ec5277b4","trace_flags":"01","trace_id":"67379d2273f3d1f144deeca0216bda2c"}
+{"level":"info","message":"Order created for item: Laptop","span_id":"077470f4e4688fdd","trace_flags":"01","trace_id":"147a0b27bc362fab1a407164691b0d9e"}
+{"level":"info","message":"::1 - - [01/Apr/2026:14:26:28 +0000] \"POST /orders HTTP/1.1\" 201 65 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"fa4cfdce7da46350","trace_flags":"01","trace_id":"147a0b27bc362fab1a407164691b0d9e"}
+{"level":"info","message":"::1 - - [01/Apr/2026:14:26:39 +0000] \"GET /users HTTP/1.1\" 200 50 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"c9e21623c8b32b27","trace_flags":"01","trace_id":"1c7a923a264865e53992846059711d9c"}
+{"level":"info","message":"::1 - - [01/Apr/2026:14:26:40 +0000] \"GET /users HTTP/1.1\" 200 50 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"64112d8179a90ac5","trace_flags":"01","trace_id":"37c69454162472b075680aa9965f57ea"}
+{"level":"info","message":"::1 - - [01/Apr/2026:14:26:41 +0000] \"GET /users HTTP/1.1\" 200 50 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"8076a7243bb2372a","trace_flags":"01","trace_id":"70beb796a8f905c7fb4fb246b6803dca"}
+{"level":"info","message":"::1 - - [01/Apr/2026:14:26:42 +0000] \"GET /users HTTP/1.1\" 200 50 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"68c9da8b345c33b5","trace_flags":"01","trace_id":"a5bdd1f287322c2d9941d7774773a2b2"}
+{"level":"info","message":"::1 - - [01/Apr/2026:14:26:42 +0000] \"GET /users HTTP/1.1\" 200 50 \"-\" \"PostmanRuntime/7.52.0\"","span_id":"196575da064a6fb2","trace_flags":"01","trace_id":"738d7ad96f24f835fcfc43c018f6eb16"}
