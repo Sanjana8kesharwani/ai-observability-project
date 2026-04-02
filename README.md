@@ -93,6 +93,9 @@ This setup helps in:
 - Add alerting for error rates
 - Create dashboards in Kibana
 - Monitor response times
+- Async checkout flow with failure simulation
+- Basic security using CORS and Helmet
+
 
 ---
 

@@ -1,0 +1,20 @@
+AI Observability Project - Analysis
+
+In this project, I built a backend system using Node.js and Express with a focus on observability.
+
+I implemented structured logging using Morgan and Winston to capture API request details. For tracing, I used OpenTelemetry to track request flow and generate trace_id and span_id for better debugging.
+
+The checkout API simulates real-world asynchronous behavior using a delay and random failure. This helps in observing how the system behaves under success and failure conditions.
+
+Logs are sent to Elasticsearch and visualized in Kibana. This allows real-time monitoring of API requests, errors, and system performance.
+
+I also implemented basic security practices such as input validation, CORS, and Helmet.
+
+If given more time, I would extend this project by:
+- Creating alerts based on error rates
+- Converting logs into metrics
+- Adding dashboards in Kibana
+- Implementing index lifecycle policies
+- Enhancing tracing with more custom spans
+
+This project demonstrates how observability can help in debugging, monitoring, and improving system reliability.
